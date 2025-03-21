@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack (Improving)
 
 - **Frontend:** Vue3, React, TypeScript, Pinia, Vue-Router, Axios
 - **UI Frameworks:** NutUI, Arco Design, Tailwind CSS
@@ -22,7 +22,7 @@
 - A lightweight social media platform for sharing images and posts
 - Built with Vue3 + NutUI + Arco Design + Pinia + FastAPI + SQLite
 - Features: user authentication, profile editing, post creation, likes, comments, and more
-- 🔗 [View Project](https://github.com/your-repo-name)
+- 🔗 [View Project]([https://github.com/your-repo-name](https://github.com/Mellow-L/light-share-client-vue))
 
 ---
 
